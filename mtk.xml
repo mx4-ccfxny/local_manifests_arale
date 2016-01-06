@@ -27,6 +27,7 @@
   <project path="hardware/libhardware" name="mx4-ccfxny/android_hardware_libhardware_mtk" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="mx4-ccfxny/android_hardware_libhardware_legacy_mtk" groups="pdk" />
   <project path="packages/services/Telephony" name="mx4-ccfxny/android_packages_services_Telephony_mtk" />
+  <project path="packages/services/Telecomm" name="mx4-ccfxny/android_packages_services_Telecomm_mtk" />
 
   <!-- vim:set ai et ts=2 sw=2 sts=2 fenc=utf-8: -->
 </manifest>
