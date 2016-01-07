@@ -11,6 +11,7 @@
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_hardware_libhardware" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
   <remove-project name="CyanogenMod/android_packages_services_Telephony" />
 
   <project path="build" name="mx4-ccfxny/android_build_mtk" groups="pdk,tradefed" >
