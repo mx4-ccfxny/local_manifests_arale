@@ -14,4 +14,4 @@ lunch cm_mx4-userdebug
 ```
 
 
-<!-- vim:set ai et ts=4 sw=4 sts=4 fenc=utf-8: -->
+repo init cm项目后,在repo sync之前将此项目下的文件clone到预放置CM的目录的.repo目录的local_manifests下然后repo sync即可
